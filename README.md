@@ -1,2 +1,2 @@
 # andinet
-This andinet park image tile setup
+This is andinet park image tile setup
